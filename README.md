@@ -21,7 +21,7 @@ or to gradle
 compile 'com.github.sparkmuse:properties-mapper:${version}'
 ```
 
-The version can be obtained by going to the link https://mvnrepository.com/artifact/com.github.sparkmuse/swagger2-spring-boot-starter
+The version can be obtained by going to the link https://mvnrepository.com/artifact/com.github.sparkmuse/property-mapper
 
 # Usage
 
