@@ -1,0 +1,17 @@
+person:
+  name: John
+  age: 25
+  locations:
+    work:
+      street: Chestnut Lane 23
+      zip: 10000
+    home:
+      street: Last Street 100
+      zip: 20000
+  departments:
+    - name: HR
+      id: 1
+      type: INTERNAL
+    - name: Admin
+      id: 2
+      type: EXTERNAL

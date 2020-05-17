@@ -7,5 +7,5 @@ import properties.mapper.annotation.Property;
 @Property(source="property/person-top-level.yaml")
 public class PersonTopLevel {
     private String name;
-    private Long age;
+    private int age;
 }

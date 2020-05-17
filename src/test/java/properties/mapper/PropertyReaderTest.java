@@ -3,11 +3,9 @@ package properties.mapper;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.io.TempDir;
 import properties.mapper.exception.PropertySourceEmptyFileException;
 import properties.mapper.exception.PropertySourceFileMissingException;
 
-import java.io.File;
 import java.util.Optional;
 
 import static org.assertj.core.api.Assertions.assertThat;
